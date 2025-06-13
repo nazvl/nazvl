@@ -2,7 +2,7 @@
 <h3 align="center">A beginner frontend developer from Russia</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/26906814/file/original-ddc1de408d4289771f9be232567068de.gif" alt="developer gif" width="60%" />
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="developer gif" width="60%" />
 </p>
 
 <p align="left">
