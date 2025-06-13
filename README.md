@@ -2,7 +2,7 @@
 <h3 align="center">A beginner frontend developer from Russia</h3>
 
 <p align="center">
-  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="developer gif" width="60%" />
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="developer gif" width="20%" />
 </p>
 
 <p align="left">
