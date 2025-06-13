@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">A beginner frontend developer from Russia</h3>
 
-<p align="center">
-  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="developer gif" width="20%" />
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nazvl&label=Profile%20views&color=0e75b6&style=flat" alt="nazvl" />
@@ -47,5 +44,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazvl&show_icons=true&locale=en&layout=compact" alt="nazvl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazvl&show_icons=true&theme=tokyonight&locale=en" alt="nazvl" /></p>
+<p align="center">
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="developer gif" width="20%" />
+</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nazvl&show_icons=true&theme=tokyonight&locale=en" alt="nazvl" /></p>
