@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nazvl&label=Profile%20views&color=0e75b6&style=flat" alt="nazvl" />
 </p>
 
-- 🔭 I’m currently working on [Connect.](https://github.com/nazvl/connect-project)
+- 🔭 I’m currently working on [s21 Helper.](https://github.com/nazvl/connect-project](https://github.com/nazvl/s21_help)
 
 - 🌱 I’m currently learning **Angular, React, Vue**
 
