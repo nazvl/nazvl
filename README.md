@@ -13,7 +13,6 @@
 
 - 📖 Studying in **School 21 - a coding school by Sberbank, based on École 42**
 
-- ⚡ Fun fact **I like cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
