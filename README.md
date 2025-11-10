@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [s21 Helper.](https://github.com/nazvl/s21_help)
 
 
-- 🌱 I’m currently learning **Angular, React, Vue**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📖 Studying in **School 21 - a coding school by Sberbank, based on École 42**
 
